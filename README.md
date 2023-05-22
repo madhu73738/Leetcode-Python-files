@@ -1,2 +1,2 @@
-# try
+# Leetcode python
 codes
